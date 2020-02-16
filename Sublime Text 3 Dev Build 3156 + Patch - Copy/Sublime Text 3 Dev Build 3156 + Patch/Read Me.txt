@@ -1,0 +1,12 @@
+Softhound.com
+---------------
+1. Install Program & Close it completely
+2. Copy patch to program's installation folder
+3. Right click on Patch, Click "Run as administrator" & apply it!
+4. Enjoy & Share!
+------------
+Links
+------------
+Website : softhound.com
+Request : softhound.com/contact/
+About   : softhound.com/about/
